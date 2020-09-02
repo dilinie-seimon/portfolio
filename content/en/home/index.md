@@ -1,6 +1,6 @@
 ---
-title: "Hi, I'm Introduction"
+title: "Hi, I'm Dilinie"
 headless: true
 ---
 
-I'm a theme for Hugo
+Postgraduate student in Business Analytics
